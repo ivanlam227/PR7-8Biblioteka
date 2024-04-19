@@ -1,0 +1,8 @@
+C:\Users\lyami\source\repos\Bibl\Bibl\bin\Debug\Bibl.exe.config
+C:\Users\lyami\source\repos\Bibl\Bibl\bin\Debug\Bibl.exe
+C:\Users\lyami\source\repos\Bibl\Bibl\bin\Debug\Bibl.pdb
+C:\Users\lyami\source\repos\Bibl\Bibl\obj\Debug\Bibl.csproj.AssemblyReference.cache
+C:\Users\lyami\source\repos\Bibl\Bibl\obj\Debug\Bibl.csproj.SuggestedBindingRedirects.cache
+C:\Users\lyami\source\repos\Bibl\Bibl\obj\Debug\Bibl.csproj.CoreCompileInputs.cache
+C:\Users\lyami\source\repos\Bibl\Bibl\obj\Debug\Bibl.exe
+C:\Users\lyami\source\repos\Bibl\Bibl\obj\Debug\Bibl.pdb
